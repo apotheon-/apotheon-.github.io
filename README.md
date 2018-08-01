@@ -1,2 +1,2 @@
 ## Portfolio
-Nothing to see here (yet), the page is under Maintanance!
+Nothing to see here (yet), the page is under maintenance!
